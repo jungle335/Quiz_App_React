@@ -12,7 +12,7 @@ You will also see any lint errors in the console.
  
 <b>Scopul aplicatiei: </b> permite crearea unui singur quiz individual si rezolvarea acestuia de catre ceilalti utilizatori.
 
-**Rutele folosite in aplicatie sunt: **
+<b>Rutele folosite in aplicatie sunt: </b>
 * /new-acc  - permite inregistrarea unui cont
 * /log-into - permite autentificarea folosind un cont existent
 * /about    - pagina de profil a utilizatorului, ce permite manevrarea contului (editare, stergere etc.) si accesarea altor optiuni (crearea unui quiz)
