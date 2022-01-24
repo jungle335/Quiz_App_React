@@ -15,13 +15,13 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 <b>Rutele utilizate</b>
-```
+
 - /log-into - autentificare
 - /new-acc - creare cont
 - /about - pagina utilizatorului unde are diverse optiuni (editare / stergere cont, stergere quiz etc.)
 - /search - pagina unde sunt afisati utilizatorii impreuna cu quiz-urile lor
 - /not-found - pagina care apare atunci cand o ruta este inexistenta sau gresita
 
-```
+
 
 
