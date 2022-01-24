@@ -16,9 +16,9 @@ You will also see any lint errors in the console.
 
 <b>Rutele utilizate</b>
 
-- /log-into - autentificare
-- /new-acc - creare cont
-- /about - pagina utilizatorului unde are diverse optiuni (editare / stergere cont, stergere quiz etc.)
+- /log-into - autentificare in aplicatie
+- /new-acc - crearea unui cont
+- /about - pagina utilizatorului ce are cateva optiuni (editare / stergere cont, stergere quiz etc.)
 - /search - pagina unde sunt afisati utilizatorii impreuna cu quiz-urile lor
 - /not-found - pagina care apare atunci cand o ruta este inexistenta sau gresita
 
