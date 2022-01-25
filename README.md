@@ -14,13 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-<b>Rutele utilizate</b>
+<b>Rute utilizate</b>
 
 - /log-into - autentificare in aplicatie
 - /new-acc - crearea unui cont
 - /about - pagina utilizatorului ce are cateva optiuni (editare / stergere cont, stergere quiz etc.)
 - /search - pagina unde sunt afisati utilizatorii impreuna cu quiz-urile lor
-- /not-found - pagina care apare atunci cand o ruta este inexistenta sau gresita
+- /... - (aici ... inseamna orice ruta inexistenta sau gresita) apare pagina not Found
 
 
 
