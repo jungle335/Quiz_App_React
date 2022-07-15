@@ -1,27 +1,12 @@
-# Getting Started with Create React App
+## Quiz App
+My React App Project represents a quiz app, where you can create
+your own quiz to be solved by everyone who has an account in the
+app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<b>The app routes</b>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-<b>Rute utilizate</b>
-
-- /log-into - autentificare in aplicatie
-- /new-acc - crearea unui cont
-- /about - pagina utilizatorului ce are cateva optiuni (editare / stergere cont, stergere quiz etc.)
-- /search - pagina unde sunt afisati utilizatorii impreuna cu quiz-urile lor
-- /... - (aici ... inseamna orice ruta inexistenta sau gresita) apare pagina not Found
-
-
-
-
+- /log-into - log in application
+- /new-acc - register an account
+- /about - the user page that consists of some basic options such as editing or delete the account, delete a quiz and so forth.
+- /search - the page where there are shown all users together with their created quizzes.
+- /... - (here ... means every inexistent or wrong route) it is shown the not found page
